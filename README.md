@@ -13,7 +13,7 @@ Interactive UI
 3D Avatar Flip effect, smooth scroll reveal animations, and an infinite slider for an engaging user experience.
 
 Project Showcase
-Project details displayed in interactive modals with image gallery and fullscreen viewing mode.
+Projects are displayed in interactive modals with image galleries and fullscreen viewing mode.
 
 Smart Analytics
 Automatic view counter using localStorage to persist client-side data.
@@ -25,11 +25,11 @@ Fully Responsive
 Optimized for Mobile, Tablet, and Desktop devices.
 
 🛠️ Technologies Used
-<!-- Font Awesome CDN --> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" /> <div align="center" style="margin-top:12px"> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-html5" style="font-size:34px; color:#E34F26;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-css3-alt" style="font-size:34px; color:#1572B6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-js" style="font-size:34px; color:#F7DF1E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-layer-group" style="font-size:34px; color:#8B5CF6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-tachometer-alt" style="font-size:34px; color:#22C55E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/> <div align="center" style="margin-top:12px"> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-html5" style="font-size:34px; color:#E34F26;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-css3-alt" style="font-size:34px; color:#1572B6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-js" style="font-size:34px; color:#F7DF1E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-layer-group" style="font-size:34px; color:#8B5CF6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-tachometer-alt" style="font-size:34px; color:#22C55E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> </div>
 
 Frontend: HTML5 Semantic, CSS3 (Flexbox, Grid), Vanilla JavaScript
 Web APIs: Intersection Observer API, LocalStorage API
-Approach: Modular CSS structure, performance-first mindset
+Approach: Modular CSS architecture, performance-first mindset
 
 📁 Project Structure
 ├── index.html        # Main content structure
@@ -38,17 +38,14 @@ Approach: Modular CSS structure, performance-first mindset
 └── images/           # Image assets
 
 🚀 Installation & Usage
-
 Clone the repository
-
 git clone https://github.com/HvLonggg/Portfolio-HvLong.git
-
 
 Run locally
 
 Open index.html directly in a browser
 
-Or use Live Server in VS Code
+Or use Live Server in Visual Studio Code
 
 Deployment
 
