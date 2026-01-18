@@ -1,51 +1,74 @@
-🚀 Modern Portfolio - Hoàng Văn Long
+🚀 Modern Portfolio – Hoàng Văn Long
 <div align="center">
 
-Giao diện Portfolio cá nhân tối ưu hiệu suất, tập trung vào UX/UI hiện đại và khả năng tương tác cao.
+A modern personal portfolio focused on clean UI/UX, smooth interactions, and performance optimization, showcasing web development skills and personal projects.
 
-🌐 Xem Demo trực tiếp
+🌐 Live Demo:
+👉 https://hvlonggg.github.io/Portfolio-HvLong/
 
 </div>
+✨ Key Features
 
-✨ Tính năng chính
-Interactive UI: Hiệu ứng lật 3D (Avatar Flip), cuộn trang mượt mà (Scroll Reveal) và Slider vô tận.
+Interactive UI
+3D Avatar Flip effect, smooth scroll reveal animations, and an infinite slider for an engaging user experience.
 
-Project Showcase: Modal chi tiết tích hợp Gallery ảnh đa phương tiện và chế độ Fullscreen.
+Project Showcase
+Project details displayed in interactive modals with image gallery and fullscreen viewing mode.
 
-Smart Analytics: Bộ đếm lượt xem tự động (View Counter) sử dụng localStorage để lưu trữ dữ liệu phía Client.
+Smart Analytics
+Automatic view counter using localStorage to persist client-side data.
 
-Fast Communication: Form liên hệ tích hợp sâu với Email Client (Mailto API).
+Fast Communication
+Contact form integrated directly with the email client via mailto.
 
-Responsive: Tối ưu hiển thị tuyệt đối trên Mobile, Tablet và Desktop.
+Fully Responsive
+Optimized for Mobile, Tablet, and Desktop devices.
 
-🛠️ Công nghệ & Kỹ thuật
-Frontend: Vanilla JavaScript, CSS3 Grid/Flexbox, HTML5 Semantic.
+🛠️ Technologies Used
+<!-- Font Awesome CDN --> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" /> <div align="center" style="margin-top:12px"> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-html5" style="font-size:34px; color:#E34F26;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-css3-alt" style="font-size:34px; color:#1572B6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fab fa-js" style="font-size:34px; color:#F7DF1E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-layer-group" style="font-size:34px; color:#8B5CF6;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> <span style="margin:0 10px; display:inline-block;"> <i class="fas fa-tachometer-alt" style="font-size:34px; color:#22C55E;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'"></i> </span> </div>
 
-APIs: Intersection Observer API (xử lý lazy animation), LocalStorage API.
+Frontend: HTML5 Semantic, CSS3 (Flexbox, Grid), Vanilla JavaScript
+Web APIs: Intersection Observer API, LocalStorage API
+Approach: Modular CSS structure, performance-first mindset
 
-Methodology: Cấu trúc CSS theo tư duy module, tối ưu hóa tốc độ phản hồi (Performance-first).
+📁 Project Structure
+├── index.html        # Main content structure
+├── style.css         # UI styles and animations
+├── script.js         # Interaction logic and data handling
+└── images/           # Image assets
 
-📁 Cấu trúc dự án
-Plaintext
+🚀 Installation & Usage
 
-├── index.html       # Cấu trúc nội dung chính
-├── style.css        # Toàn bộ logic giao diện và hiệu ứng
-├── script.js        # Xử lý dữ liệu dự án và logic tương tác
-└── images/          # Thư viện tài nguyên hình ảnh
-🚀 Cài đặt & Sử dụng
-Clone: git clone https://github.com/HvLonggg/Portfolio-HvLong.git
+Clone the repository
 
-Run: Mở file index.html bằng trình duyệt hoặc dùng Live Server (VS Code).
+git clone https://github.com/HvLonggg/Portfolio-HvLong.git
 
-Deploy: Hỗ trợ tốt nhất trên GitHub Pages, Vercel hoặc Netlify.
 
-📧 Liên hệ
-Họ tên: Hoàng Văn Long (Backend Developer)
+Run locally
 
-GitHub: @HvLonggg
+Open index.html directly in a browser
+
+Or use Live Server in VS Code
+
+Deployment
+
+Fully compatible with GitHub Pages, Vercel, and Netlify
+
+📧 Contact
+
+Name: Hoàng Văn Long
+
+Role: Developer
+
+GitHub: https://github.com/HvLonggg
 
 LinkedIn: Hoàng Văn Long
 
 Email: hvlongg@gmail.com
 
-<div align="center"> © 2025 Hoàng Văn Long - Bản quyền thiết kế thuộc về tác giả. </div>
+<div align="center">
+
+© 2025 Hoàng Văn Long
+All rights reserved.
+
+</div>
